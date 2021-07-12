@@ -10,9 +10,9 @@
     </a>
 </p>
 
-# 𝙷𝚒 𝙸'𝚖 𝚅𝚒𝚔𝚊𝚜𝚑 <a href="#"><img src="./assets/images/flash.gif" width="50px" alt="Hi"></a>
+# 𝙷𝚒 𝙸'𝚖 Estevam <a href="#"><img src="./assets/images/flash.gif" width="50px" alt="Hi"></a>
 
-### 𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 | 𝙲𝚛𝚎𝚊𝚝𝚒𝚟𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎
+### Software Engineer in formation | 𝙲𝚛𝚎𝚊𝚝𝚒𝚟𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 & Backend Developer
 
 or so I'd like to think 😂
 
@@ -23,13 +23,13 @@ Trying to simultaneously learn heaps and cook up cool projects.
 <br/>
 <p align="center">
     <a href="#">
-        <img width="100" src="https://github-profile-trophy.vercel.app/?username=vikichand&title=Organizations&theme=onedark&no-frame=true&row=1&column=1&margin-w=15&margin-h=15" alt="" />
+        <img width="100" src="https://github-profile-trophy.vercel.app/?username=Estevamsl&title=Organizations&theme=onedark&no-frame=true&row=1&column=1&margin-w=15&margin-h=15" alt="" />
     </a>
     <a href="#">
-        <img width="100" src="https://github-profile-trophy.vercel.app/?username=vikichand&title=Followers&theme=onedark&no-frame=true&row=1&column=1&margin-w=15&margin-h=15" alt="" />
+        <img width="100" src="https://github-profile-trophy.vercel.app/?username=Estevamsl&title=Followers&theme=onedark&no-frame=true&row=1&column=1&margin-w=15&margin-h=15" alt="" />
     </a>
     <a href="#">
-        <img width="100" src="https://github-profile-trophy.vercel.app/?username=vikichand&title=Commit&theme=onedark&no-frame=true&row=1&column=1&margin-w=15&margin-h=15" alt="" />
+        <img width="100" src="https://github-profile-trophy.vercel.app/?username=Estevamsl&title=Commit&theme=onedark&no-frame=true&row=1&column=1&margin-w=15&margin-h=15" alt="" />
     </a>
 </p>
 
@@ -41,16 +41,6 @@ Trying to simultaneously learn heaps and cook up cool projects.
     </a>
     <a href="https://www.linkedin.com/in/vikash-chand-fiji" rel="nofollow">
         <img src="https://img.shields.io/badge/-LinkedIn-f5f5f5?style=for-the-badge&amp;labelColor=f5f5f5&amp;logo=LinkedIn&amp;logoColor=007BB6" alt="LinkedIn" style="max-width:100%;">
-    </a>
-    <a href="https://www.instagram.com/vikichand" rel="nofollow">
-        <img src="https://img.shields.io/badge/-Instagram-f5f5f5?style=for-the-badge&amp;labelColor=f5f5f5&amp;logo=Instagram" alt="Instagram"
-        style="max-width:100%;">
-    </a>
-    <a href="https://twitter.com/takeiteasyvik" rel="nofollow">
-        <img src="https://img.shields.io/badge/-Twitter-f5f5f5?style=for-the-badge&amp;labelColor=f5f5f5&amp;logo=Twitter&amp;logoColor=1C9DEB" alt="Twitter" style="max-width:100%;">
-    </a>
-    <a href="https://www.facebook.com/viki.chand" rel="nofollow">
-        <img src="https://img.shields.io/badge/-Facebook-f5f5f5?style=for-the-badge&amp;labelColor=f5f5f5&amp;logo=Facebook&amp;logoColor=1195F5" alt="Facebook" style="max-width:100%;">
     </a>
 </p>
 
@@ -67,7 +57,6 @@ Trying to simultaneously learn heaps and cook up cool projects.
     - and Flutter projects
   - and contribute more to open source, so stay tuned!
 - ⚡ Fun facts:
-  - I play games and try going to the GYM often 🤭
   - I like my beers cold 🍺 and the whiskey old 🥃
 
 ### Top Tools & Technologies:
@@ -578,11 +567,6 @@ Trying to simultaneously learn heaps and cook up cool projects.
         </a>
     </p>
 </details>
-
-_Profile stats_
-
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=vikichand)](#)
-[![Github](https://img.shields.io/github/followers/vikichand?label=Follow&style=social)](https://github.com/vikichand)
 
 <!--
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=vikichand&theme=github) 
