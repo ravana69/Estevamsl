@@ -870,6 +870,7 @@ _Stay focused!_
 <details>
   <summary align="center"> :eyes::eyes: My Playlist no Spotify <img aling=center src="https://github.com/jonfisik/ScriptsPython/blob/master/imagens/atom1.gif" width="25"> </summary>
 
+<img src="developer.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <!-- Nothing weird to see here -->
 <p align="center">
@@ -1141,6 +1142,7 @@ My website has quite a few of them, here's a list of the public ones:
 <!-- Details Section-->
 <details>
   <summary align="center"><b>Portfolio <img src="https://media.giphy.com/media/UKPamsPmo1zZymGRi4/giphy.gif" width="25px"></b></summary>
+<h3 align="center"><img align="center" alt="GIF" src="https://github.com/wenealves10/wenealves10/blob/main/@wn_allvess (1).gif" width="700"/></h3>
 <img src="https://github.com/muskanrani/muskanrani/blob/master/qrcode_muskanrani.github.io.png" align="center" style="width: 60%" />
 </details>
 
@@ -1148,6 +1150,9 @@ My website has quite a few of them, here's a list of the public ones:
 <details>
   <summary align="center"><b>Currículo Status <img src="https://media.giphy.com/media/UKPamsPmo1zZymGRi4/giphy.gif" width="25px"></b></summary>
 
+![alt_text](https://media.discordapp.net/attachments/757215782772932679/775560937742663690/Captura_de_Pantalla_2020-11-09_a_las_4.01.51_a.m..png?width=1508&height=943)
+	
+<img align="right" src="https://media.giphy.com/media/wCDW0yf9gf77c9vIVZ/giphy.gif" widht="120" height="150">
 
 <div align="center">
 	<br>
